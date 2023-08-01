@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.inputval {
+  width: 140px;
+  margin: 0 4px;
+}
